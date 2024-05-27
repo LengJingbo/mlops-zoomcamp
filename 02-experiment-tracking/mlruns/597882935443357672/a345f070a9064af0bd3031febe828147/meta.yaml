@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/597882935443357672/a345f070a9064af0bd3031febe828147/artifacts
+end_time: 1716832860159
+entry_point_name: ''
+experiment_id: '597882935443357672'
+lifecycle_stage: active
+run_id: a345f070a9064af0bd3031febe828147
+run_name: silent-steed-186
+run_uuid: a345f070a9064af0bd3031febe828147
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716832854498
+status: 3
+tags: []
+user_id: codespace

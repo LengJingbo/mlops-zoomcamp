@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/718330321665991460/097e7cad98e44694929347418a54b3a8/artifacts
+end_time: 1716832700506
+entry_point_name: ''
+experiment_id: '718330321665991460'
+lifecycle_stage: active
+run_id: 097e7cad98e44694929347418a54b3a8
+run_name: delicate-squirrel-89
+run_uuid: 097e7cad98e44694929347418a54b3a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716832695564
+status: 3
+tags: []
+user_id: codespace

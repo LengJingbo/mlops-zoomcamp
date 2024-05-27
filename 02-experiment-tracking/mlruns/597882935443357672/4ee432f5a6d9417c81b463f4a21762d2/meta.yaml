@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/597882935443357672/4ee432f5a6d9417c81b463f4a21762d2/artifacts
+end_time: 1716832870596
+entry_point_name: ''
+experiment_id: '597882935443357672'
+lifecycle_stage: active
+run_id: 4ee432f5a6d9417c81b463f4a21762d2
+run_name: loud-elk-796
+run_uuid: 4ee432f5a6d9417c81b463f4a21762d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716832860193
+status: 3
+tags: []
+user_id: codespace

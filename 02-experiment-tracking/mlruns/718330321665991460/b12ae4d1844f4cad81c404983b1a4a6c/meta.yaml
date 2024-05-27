@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/718330321665991460/b12ae4d1844f4cad81c404983b1a4a6c/artifacts
+end_time: 1716832736822
+entry_point_name: ''
+experiment_id: '718330321665991460'
+lifecycle_stage: active
+run_id: b12ae4d1844f4cad81c404983b1a4a6c
+run_name: burly-sponge-310
+run_uuid: b12ae4d1844f4cad81c404983b1a4a6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716832735906
+status: 3
+tags: []
+user_id: codespace

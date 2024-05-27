@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/718330321665991460/4fdadd2495324c9eb91a5a7554cf6929/artifacts
+end_time: 1716832720611
+entry_point_name: ''
+experiment_id: '718330321665991460'
+lifecycle_stage: active
+run_id: 4fdadd2495324c9eb91a5a7554cf6929
+run_name: charming-moose-497
+run_uuid: 4fdadd2495324c9eb91a5a7554cf6929
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716832719755
+status: 3
+tags: []
+user_id: codespace

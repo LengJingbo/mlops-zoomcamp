@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/718330321665991460/f5b123d8089f4112818ec9da9a9ac13c/artifacts
+end_time: 1716832735895
+entry_point_name: ''
+experiment_id: '718330321665991460'
+lifecycle_stage: active
+run_id: f5b123d8089f4112818ec9da9a9ac13c
+run_name: auspicious-duck-337
+run_uuid: f5b123d8089f4112818ec9da9a9ac13c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716832733187
+status: 3
+tags: []
+user_id: codespace

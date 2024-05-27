@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/718330321665991460/a21e1c9f1823434eab1e1bafc218fc31/artifacts
+end_time: 1716832702976
+entry_point_name: ''
+experiment_id: '718330321665991460'
+lifecycle_stage: active
+run_id: a21e1c9f1823434eab1e1bafc218fc31
+run_name: indecisive-duck-321
+run_uuid: a21e1c9f1823434eab1e1bafc218fc31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716832700514
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/718330321665991460/531dd721e36f42bdbbea7e6be60c2542/artifacts
+end_time: 1716832711409
+entry_point_name: ''
+experiment_id: '718330321665991460'
+lifecycle_stage: active
+run_id: 531dd721e36f42bdbbea7e6be60c2542
+run_name: bedecked-snipe-601
+run_uuid: 531dd721e36f42bdbbea7e6be60c2542
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716832702989
+status: 3
+tags: []
+user_id: codespace

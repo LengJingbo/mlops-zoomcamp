@@ -1,0 +1,6 @@
+artifact_location: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/mlruns/249429015533108183
+creation_time: 1716831175365
+experiment_id: '249429015533108183'
+last_update_time: 1716831175365
+lifecycle_stage: active
+name: RF-train

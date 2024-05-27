@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/718330321665991460/cec3194b9c5f4675b58a1190efd43151/artifacts
+end_time: 1716832694598
+entry_point_name: ''
+experiment_id: '718330321665991460'
+lifecycle_stage: active
+run_id: cec3194b9c5f4675b58a1190efd43151
+run_name: merciful-sheep-376
+run_uuid: cec3194b9c5f4675b58a1190efd43151
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716832687299
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/mlruns/640106427190362816/68a7f9722d5c4dafb26c259b6f9d81c1/artifacts
+end_time: 1716830862913
+entry_point_name: ''
+experiment_id: '640106427190362816'
+lifecycle_stage: active
+run_id: 68a7f9722d5c4dafb26c259b6f9d81c1
+run_name: ambitious-shad-677
+run_uuid: 68a7f9722d5c4dafb26c259b6f9d81c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716830845402
+status: 3
+tags: []
+user_id: codespace
